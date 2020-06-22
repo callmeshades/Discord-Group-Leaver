@@ -1,0 +1,16 @@
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\Discord Group Leaver.exe.config
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\Discord Group Leaver.exe
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\Discord Group Leaver.pdb
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord_Group_Leaver.Form1.resources
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord_Group_Leaver.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.exe
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.pdb
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\Discord Group Leaver.exe.manifest
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\AutoItX3.dll
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.csproj.ResolveComReference.cache
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.exe.manifest
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\bin\Debug\Discord Group Leaver.application
+C:\Users\Brandon\source\repos\Discord Group Leaver\Discord Group Leaver\obj\Debug\Discord Group Leaver.application
